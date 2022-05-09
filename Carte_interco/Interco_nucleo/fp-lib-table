@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "component")(type "KiCad")(uri "/home/mephir0/Documents/Pokibot/Carte_interco/component.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Carte_Alim-rescue)(type Legacy)(uri ${KIPRJMOD}/Carte_Alim-rescue.lib)(options "")(descr ""))
+  (lib (name Carte_Alim-cache-2018-11-22-07-39-21)(type Legacy)(uri "C:/Users/Mephiro/Mephiro Drive/PCB_conception/Carte_Alim/Carte_Alim-cache-2018-11-22-07-39-21.lib")(options "")(descr ""))
+)

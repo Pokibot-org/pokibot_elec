@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Mephiro\Mephiro Drive\PCB_conception\Carte_protection\simu_inv_tension.asc
+
+.OP point found by inspection.
+
+Date: Tue Oct 30 16:00:18 2018
+Total elapsed time: 0.140 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1067
+traniter = 1067
+tranpoints = 348
+accept = 305
+rejected = 43
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 384 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
