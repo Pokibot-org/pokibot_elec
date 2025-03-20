@@ -3482,7 +3482,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "4k7"
 			(at 33.02 118.1099 0)
 			(effects
 				(font
@@ -3837,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x07"
+		(property "Value" "KK-254_AE-6410-07A"
 			(at 120.65 85.09 0)
 			(effects
 				(font
@@ -4141,7 +4141,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 129.794 138.938 90)
 			(effects
 				(font
@@ -4486,7 +4486,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 129.794 136.906 90)
 			(effects
 				(font
@@ -4951,7 +4951,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x07"
+		(property "Value" "KK-254_AE-6410-07A"
 			(at 120.65 40.64 0)
 			(effects
 				(font
@@ -5373,7 +5373,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 129.794 132.842 90)
 			(effects
 				(font
@@ -5443,7 +5443,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "22k"
 			(at 44.45 118.1099 0)
 			(effects
 				(font
@@ -5778,7 +5778,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 128.778 119.38 90)
 			(effects
 				(font
@@ -5981,7 +5981,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x04_Top_Bottom"
+		(property "Value" "1053141308"
 			(at 54.61 41.91 0)
 			(effects
 				(font
@@ -6334,7 +6334,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 129.794 134.874 90)
 			(effects
 				(font

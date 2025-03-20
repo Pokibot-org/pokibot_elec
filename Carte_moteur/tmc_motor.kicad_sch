@@ -2225,7 +2225,7 @@
 			(fill
 				(type none)
 			)
-			(uuid b8de24e9-c3ff-451d-baee-ab0fff525768)
+			(uuid 0ccb9425-cdda-42b0-8835-6cd75672c1bd)
 		)
 	)
 	(netclass_flag ""
@@ -2278,7 +2278,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 72.39 153.6699 0)
 			(effects
 				(font
@@ -2356,7 +2356,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "0R"
 			(at 105.41 152.3999 0)
 			(effects
 				(font
@@ -2508,7 +2508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 97.79 67.3099 0)
 			(effects
 				(font
@@ -2733,7 +2733,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 210.82 147.3199 0)
 			(effects
 				(font
@@ -2894,7 +2894,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "KK-254_AE-6410-05A"
 			(at 127 162.5599 0)
 			(effects
 				(font
@@ -3055,7 +3055,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "0R"
 			(at 97.79 82.5499 0)
 			(effects
 				(font
@@ -3546,7 +3546,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "DNP"
 			(at 115.57 152.3999 0)
 			(effects
 				(font
@@ -3699,7 +3699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "0R"
 			(at 88.9 82.5499 0)
 			(effects
 				(font
@@ -3926,7 +3926,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 90.17 153.6699 0)
 			(effects
 				(font
@@ -4003,7 +4003,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47uF"
 			(at 189.23 147.3199 0)
 			(effects
 				(font
@@ -4237,7 +4237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 88.9 67.3099 0)
 			(effects
 				(font
@@ -4314,7 +4314,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "KK-254_AE-6410-04A"
 			(at 227.965 74.93 0)
 			(effects
 				(font
@@ -4471,7 +4471,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 81.28 153.6699 0)
 			(effects
 				(font

@@ -6043,21 +6043,21 @@
 		(fields_autoplaced yes)
 		(uuid "07a1e0ad-2dde-48e6-be93-a1d03834d570")
 		(property "Reference" "R607"
-			(at 115.57 31.7499 0)
+			(at 120.65 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 115.57 34.2899 0)
+		(property "Value" "4k7"
+			(at 120.65 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -6319,21 +6319,21 @@
 		(fields_autoplaced yes)
 		(uuid "1244a857-f56e-45a6-97da-d26d764e2e6a")
 		(property "Reference" "R615"
-			(at 261.62 114.2999 0)
+			(at 266.7 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 261.62 116.8399 0)
+		(property "Value" "1k"
+			(at 266.7 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -6542,8 +6542,8 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
-			(at 65.278 75.946 90)
+		(property "Value" "0R"
+			(at 65.024 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6603,19 +6603,21 @@
 		(fields_autoplaced yes)
 		(uuid "159b4667-9fbb-42da-875a-b004c0a53e29")
 		(property "Reference" "R614"
-			(at 231.14 67.31 90)
+			(at 227.33 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 228.6 67.31 90)
+		(property "Value" "10k"
+			(at 227.33 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -7014,7 +7016,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "30d8a338-dbfc-4eff-b4d5-d3f51d53c37f")
 		(property "Reference" "R603"
 			(at 64.77 69.85 90)
@@ -7024,8 +7025,8 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
-			(at 64.77 72.39 90)
+		(property "Value" "0R"
+			(at 65.278 80.264 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7297,21 +7298,21 @@
 		(fields_autoplaced yes)
 		(uuid "45feda9f-3768-460c-916e-047ebfe4dff0")
 		(property "Reference" "R608"
-			(at 115.57 48.2599 0)
+			(at 120.65 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 115.57 50.7999 0)
+		(property "Value" "4k7"
+			(at 120.65 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -7376,7 +7377,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "36k"
+		(property "Value" "33k"
 			(at 73.66 52.0699 0)
 			(effects
 				(font
@@ -7446,7 +7447,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "STM32F103CBTx"
+		(property "Value" "STM32F103CBT6"
 			(at 165.4967 116.84 0)
 			(effects
 				(font
@@ -7786,7 +7787,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND24"
+		(property "Value" "8MHz"
 			(at 269.24 57.0798 0)
 			(effects
 				(font
@@ -8331,7 +8332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 128.27 176.5299 0)
 			(effects
 				(font
@@ -8408,7 +8409,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 190.5 151.1299 0)
 			(effects
 				(font
@@ -8818,7 +8819,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "20pF"
 			(at 262.89 69.8499 0)
 			(effects
 				(font
@@ -8955,19 +8956,21 @@
 		(fields_autoplaced yes)
 		(uuid "7dc069de-001b-47c9-9dbd-ab2c6cda24a8")
 		(property "Reference" "R613"
-			(at 222.25 67.31 90)
+			(at 218.44 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 219.71 67.31 90)
+		(property "Value" "DNP"
+			(at 218.44 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -9091,21 +9094,21 @@
 		(fields_autoplaced yes)
 		(uuid "8105de7c-49de-498d-9da2-a49c2de6f3eb")
 		(property "Reference" "R616"
-			(at 261.62 148.5899 0)
+			(at 266.7 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R_US"
-			(at 261.62 151.1299 0)
+		(property "Value" "1k"
+			(at 266.7 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
@@ -9503,7 +9506,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "USB_B_Mini"
+		(property "Value" "629105150521"
 			(at 36.83 72.3899 0)
 			(effects
 				(font
@@ -9650,7 +9653,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 228.6 151.1299 0)
 			(effects
 				(font
@@ -9997,7 +10000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "20pF"
 			(at 242.57 69.8499 0)
 			(effects
 				(font
@@ -10143,7 +10146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 167.64 177.7999 0)
 			(effects
 				(font
@@ -10636,7 +10639,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 203.2 151.1299 0)
 			(effects
 				(font
@@ -10938,7 +10941,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 215.9 151.1299 0)
 			(effects
 				(font
@@ -11270,7 +11273,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f7baa5d4-acbf-4576-b4c7-3ac88e0d1f3f")
 		(property "Reference" "R601"
 			(at 64.77 64.77 90)
@@ -11280,8 +11282,8 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
-			(at 64.77 67.31 90)
+		(property "Value" "0R"
+			(at 64.77 78.486 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11347,7 +11349,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100R"
 			(at 198.12 95.25 90)
 			(effects
 				(font

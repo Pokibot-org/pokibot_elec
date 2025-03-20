@@ -4777,7 +4777,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 132.08 179.0699 0)
 			(effects
 				(font
@@ -4854,7 +4854,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 146.05 179.0699 0)
 			(effects
 				(font
@@ -4932,7 +4932,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 58.42 90)
 			(effects
 				(font
@@ -5002,7 +5002,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 87.63 129.5399 0)
 			(effects
 				(font
@@ -5073,7 +5073,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 80.01 129.5399 0)
 			(effects
 				(font
@@ -5143,7 +5143,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10k"
 			(at 85.09 35.5599 0)
 			(effects
 				(font
@@ -5212,7 +5212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 104.1399 38.1 0)
 			(effects
 				(font
@@ -5289,7 +5289,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 106.68 179.0699 0)
 			(effects
 				(font
@@ -5776,7 +5776,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 35.56 90)
 			(effects
 				(font
@@ -5977,7 +5977,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 80.01 90)
 			(effects
 				(font
@@ -6113,7 +6113,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10R"
 			(at 260.35 43.1799 0)
 			(effects
 				(font
@@ -6508,7 +6508,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "10K"
 			(at 260.35 66.0399 0)
 			(effects
 				(font
@@ -6577,7 +6577,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 119.38 179.0699 0)
 			(effects
 				(font
@@ -6655,7 +6655,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100R"
 			(at 113.03 35.5599 0)
 			(effects
 				(font
@@ -6923,7 +6923,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 71.12 90)
 			(effects
 				(font
@@ -6992,7 +6992,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 26.67 90)
 			(effects
 				(font
@@ -7339,7 +7339,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1k"
 			(at 236.22 48.26 90)
 			(effects
 				(font
