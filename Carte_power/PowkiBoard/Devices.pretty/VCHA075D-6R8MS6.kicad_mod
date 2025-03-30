@@ -158,6 +158,17 @@
 		(layer "F.SilkS")
 		(uuid "36359ba4-5563-46b5-b2a0-4b2aec854014")
 	)
+	(fp_rect
+		(start -4 -3.7)
+		(end 4 3.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "3c147381-a833-41d2-aa14-b6d64d219c95")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 1.5 0)
 		(unlocked yes)
