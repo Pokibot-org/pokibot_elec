@@ -14757,7 +14757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:WDFN-10-1EP_3x3mm_P0.5mm_EP1.8x2.5mm"
+		(property "Footprint" "Devices:RTQ6365"
 			(at 137.16 96.52 0)
 			(effects
 				(font
