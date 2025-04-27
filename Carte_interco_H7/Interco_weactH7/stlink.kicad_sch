@@ -5025,16 +5025,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 102.87) (xy 80.01 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39d90000-06a5-41ed-983e-774ed0eabb70")
-	)
-	(wire
-		(pts
 			(xy 119.38 114.3) (xy 119.38 118.11)
 		)
 		(stroke
@@ -5435,16 +5425,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 102.87) (xy 80.01 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "750c490f-7d3c-47f8-b454-128fb29c890b")
-	)
-	(wire
-		(pts
 			(xy 83.82 166.37) (xy 81.28 166.37)
 		)
 		(stroke
@@ -5532,16 +5512,6 @@
 			(type default)
 		)
 		(uuid "81d22914-ae94-4ece-a788-1f179345c31b")
-	)
-	(wire
-		(pts
-			(xy 63.5 102.87) (xy 66.04 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82e5f14d-dd53-4db1-8c0f-0de96674c68f")
 	)
 	(wire
 		(pts
@@ -6621,17 +6591,6 @@
 			(justify left)
 		)
 		(uuid "921e4229-926b-49e0-b40f-b9ca16efb65f")
-	)
-	(hierarchical_label "5V_EXT"
-		(shape input)
-		(at 63.5 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9c904636-13cb-4f39-b929-a95f1739b7ab")
 	)
 	(hierarchical_label "STLINK_RX"
 		(shape input)
@@ -10860,80 +10819,6 @@
 			(project "Carte_moteur"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b744349d-9aa8-4cc0-b442-5d75bd8e239a"
 					(reference "#PWR0331")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PMEG40T10ER")
-		(at 69.85 102.87 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a798f754-f15b-4871-861b-9c028bfa541e")
-		(property "Reference" "D303"
-			(at 70.1675 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PMEG40T10ER"
-			(at 70.1675 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
-			(at 69.85 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PMEG40T10ER.pdf"
-			(at 69.85 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "40V, 1A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W"
-			(at 69.85 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b52e6e49-786e-43e0-9a56-126dc6d518cc")
-		)
-		(pin "2"
-			(uuid "8a6951c5-89fa-44a7-b61a-e752c8f07b59")
-		)
-		(instances
-			(project "Carte_moteur"
-				(path "/5d858058-eb89-4613-a7ba-0652b9f0936c/a0d73204-6cde-434c-a6b9-1c87c98088a0"
-					(reference "D601")
-					(unit 1)
-				)
-			)
-			(project "Carte_moteur"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b744349d-9aa8-4cc0-b442-5d75bd8e239a"
-					(reference "D303")
 					(unit 1)
 				)
 			)
