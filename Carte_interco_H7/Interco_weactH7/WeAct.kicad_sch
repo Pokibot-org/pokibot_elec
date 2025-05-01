@@ -3511,16 +3511,6 @@
 		)
 		(uuid "0e35f2a7-71c1-4ecd-aaf9-41dde591e5c9")
 	)
-	(label "TIM4_CH4"
-		(at 81.28 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ebd1a0d-caf0-4f4c-a86e-c83240d2df7a")
-	)
 	(label "UART7_RX"
 		(at 233.68 55.88 180)
 		(effects
@@ -3771,6 +3761,16 @@
 		)
 		(uuid "7497c4aa-1b40-450f-ba40-c3bfc53c65e3")
 	)
+	(label "TIM4_CH3"
+		(at 81.28 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "76983ba0-3f32-49c0-90f2-fdd7612dbfcf")
+	)
 	(label "PA4"
 		(at 22.86 153.67 0)
 		(effects
@@ -4011,6 +4011,16 @@
 		)
 		(uuid "a365a8d5-ed16-42cb-9853-a3ad8dc6be87")
 	)
+	(label "TIM4_CH4"
+		(at 81.28 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4041c01-10b7-4891-91ea-30503b77a107")
+	)
 	(label "TIM2_CH1"
 		(at 233.68 45.72 180)
 		(effects
@@ -4050,16 +4060,6 @@
 			(justify left bottom)
 		)
 		(uuid "a6057aa6-a48d-4986-9180-ab013836b9f7")
-	)
-	(label "TIM4_CH3"
-		(at 81.28 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7f060e3-7b72-4eb0-b915-c4f597aae9e5")
 	)
 	(label "USART2_TX"
 		(at 161.29 43.18 0)
@@ -4795,7 +4795,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_RED"
 			(at 261.62 153.9874 90)
 			(effects
 				(font
@@ -4838,6 +4838,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "L62501CT-ND"
+			(at 257.81 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4940,7 +4948,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 41.91 130.81 90)
 			(effects
 				(font
@@ -4973,6 +4981,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 41.91 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0805"
+			(at 41.91 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5046,6 +5070,22 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "311-1.00KHRCT-ND"
+			(at 245.11 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0603"
+			(at 245.11 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b3b28428-965b-480b-9b25-3bf1fbd05a85")
 		)
@@ -5117,6 +5157,22 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "311-1.00KHRCT-ND"
+			(at 232.41 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0603"
+			(at 232.41 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "087e4e82-5b68-497c-a30f-60df723a666a")
 		)
@@ -5151,7 +5207,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_GREEN"
 			(at 236.22 153.9874 90)
 			(effects
 				(font
@@ -5194,6 +5250,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "L62505CT-ND"
+			(at 232.41 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5334,6 +5398,22 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "311-1.00KHRCT-ND"
+			(at 257.81 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0603"
+			(at 257.81 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3147fbb0-5399-4819-a576-b93df7fcfa13")
 		)
@@ -5367,7 +5447,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 41.91 161.29 90)
 			(effects
 				(font
@@ -5400,6 +5480,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 41.91 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0805"
+			(at 41.91 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5435,7 +5531,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 41.91 139.7 90)
 			(effects
 				(font
@@ -5468,6 +5564,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 41.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0805"
+			(at 41.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5805,6 +5917,14 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" ""
+			(at 205.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "D3"
 			(uuid "ab480074-a99a-4694-82d4-6714a8a37da9")
 		)
@@ -6108,7 +6228,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 41.91 170.18 90)
 			(effects
 				(font
@@ -6141,6 +6261,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 41.91 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0805"
+			(at 41.91 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6209,6 +6345,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" ""
+			(at 196.85 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "D3"
@@ -6616,6 +6760,14 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" ""
+			(at 91.44 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "D3"
 			(uuid "ab480074-a99a-4694-82d4-6714a8a37dab")
 		)
@@ -6957,6 +7109,22 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "311-1.00KHRCT-ND"
+			(at 269.24 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0603"
+			(at 269.24 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dfa4a654-2cba-40d9-b9e8-3fe9d6c0db61")
 		)
@@ -7125,7 +7293,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_GREEN"
 			(at 248.92 153.9874 90)
 			(effects
 				(font
@@ -7170,6 +7338,14 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "L62505CT-ND"
+			(at 245.11 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c845751-8108-4e5a-b23e-6543d8caa7b9")
 		)
@@ -7204,7 +7380,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED_RED"
 			(at 273.05 153.9874 90)
 			(effects
 				(font
@@ -7247,6 +7423,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DK_PN" "L62501CT-ND"
+			(at 269.24 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

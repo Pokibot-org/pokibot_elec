@@ -1747,21 +1747,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 168.91 116.84) (xy 171.45 116.84) (xy 171.45 129.54) (xy 168.91 129.54)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 9f397204-32a4-466f-ac5d-da5e1acf1428)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 168.91 57.15) (xy 171.45 57.15) (xy 171.45 69.85) (xy 168.91 69.85)
 			)
 			(stroke
@@ -1771,7 +1756,22 @@
 			(fill
 				(type none)
 			)
-			(uuid ae4c427b-4360-4c42-bf38-615956b7ab9b)
+			(uuid 1a72e55f-3dd4-441e-a573-91a576f0524b)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 168.91 116.84) (xy 171.45 116.84) (xy 171.45 129.54) (xy 168.91 129.54)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 937d7980-6858-4c8c-ae49-0bee31940833)
 		)
 	)
 	(netclass_flag ""
@@ -1881,6 +1881,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 214.63 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "WM4113-ND"
 			(at 214.63 123.19 0)
 			(effects
 				(font
@@ -2456,7 +2465,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 77.47 49.53 90)
 			(effects
 				(font
@@ -2483,6 +2492,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 81.28 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 81.28 49.53 0)
 			(effects
 				(font
@@ -2657,7 +2684,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 77.47 125.73 90)
 			(effects
 				(font
@@ -2684,6 +2711,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 81.28 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 81.28 125.73 0)
 			(effects
 				(font
@@ -2903,6 +2948,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 151.13 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9401481e-e75a-4e7c-85a2-47107cd77857")
 		)
@@ -2936,7 +2990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "22uF"
 			(at 87.63 177.7999 0)
 			(effects
 				(font
@@ -2978,6 +3032,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "587-5481-1-ND"
+			(at 83.82 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3477,7 +3540,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 87.63 49.53 90)
 			(effects
 				(font
@@ -3504,6 +3567,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 91.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 91.44 49.53 0)
 			(effects
 				(font
@@ -3646,6 +3727,15 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "801-87-032-10-012101"
+			(at 151.13 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "0b91761a-8b39-46bd-bf5d-24e204044db4")
 		)
@@ -3721,7 +3811,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 77.47 66.04 90)
 			(effects
 				(font
@@ -3748,6 +3838,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 81.28 66.04 0)
 			(effects
 				(font
@@ -4054,7 +4162,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 87.63 125.73 90)
 			(effects
 				(font
@@ -4081,6 +4189,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 91.44 125.73 0)
 			(effects
 				(font
@@ -4122,7 +4248,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 87.63 66.04 90)
 			(effects
 				(font
@@ -4149,6 +4275,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 91.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 91.44 66.04 0)
 			(effects
 				(font
@@ -4216,6 +4360,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "801-87-032-10-012101"
 			(at 151.13 120.65 0)
 			(effects
 				(font
@@ -4299,7 +4452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "22uF"
 			(at 133.35 177.7999 0)
 			(effects
 				(font
@@ -4341,6 +4494,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "587-5481-1-ND"
+			(at 129.54 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4575,7 +4737,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 87.63 109.22 90)
 			(effects
 				(font
@@ -4602,6 +4764,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 91.44 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 91.44 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 91.44 109.22 0)
 			(effects
 				(font
@@ -4687,6 +4867,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 105.41 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9058b2aa-d09f-4ec7-93dc-2830849caa22")
 		)
@@ -4755,6 +4944,15 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "WM4113-ND"
+			(at 214.63 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26a95849-87f9-41b3-9f40-56550ad23157")
 		)
@@ -4794,7 +4992,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "JUMPER"
 			(at 77.47 109.22 90)
 			(effects
 				(font
@@ -4821,6 +5019,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 81.28 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "541-0.0GCT-ND"
+			(at 81.28 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 81.28 109.22 0)
 			(effects
 				(font

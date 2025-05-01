@@ -5729,7 +5729,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 99c855eb-9877-4d60-a3b8-0cc2d9fd9b86)
+			(uuid 893987c3-7b02-4c21-9eb6-3e2fdf5b1597)
 		)
 	)
 	(netclass_flag ""
@@ -5848,7 +5848,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 43.1801 186.69 0)
 			(effects
 				(font
@@ -5876,6 +5876,23 @@
 			)
 		)
 		(property "Description" ""
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
 			(at 72.39 181.61 0)
 			(effects
 				(font
@@ -6018,6 +6035,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "WM4114-ND"
+			(at 261.62 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0bf3036-c44e-4b20-b053-b02d6ef4846e")
 		)
@@ -6095,6 +6121,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "0022232021"
+			(at 105.41 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0320fa02-5422-499a-9a02-5185c3943d65")
 		)
@@ -6164,6 +6199,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6237,6 +6281,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "0022232021"
+			(at 105.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "868dfe50-934f-4410-b948-1f2536bcf9a1")
 		)
@@ -6260,7 +6313,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "178d70b0-9d36-4b6c-a819-2840526db39a")
 		(property "Reference" "H103"
@@ -6301,6 +6354,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 168.91 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" ""
 			(at 168.91 187.96 0)
 			(effects
 				(font
@@ -6368,6 +6429,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "0022232021"
+			(at 105.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6439,6 +6509,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6580,6 +6659,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "WM4113-ND"
+			(at 261.62 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6744,7 +6832,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "324c1a36-8ba2-424d-a97c-19690bd6d14d")
 		(property "Reference" "C108"
 			(at 77.47 64.7699 0)
@@ -6755,7 +6842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 77.47 67.3099 0)
 			(effects
 				(font
@@ -6784,6 +6871,23 @@
 		)
 		(property "Description" ""
 			(at 73.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 73.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
+			(at 80.772 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6893,7 +6997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 53.34 182.8799 0)
 			(effects
 				(font
@@ -6921,6 +7025,23 @@
 			)
 		)
 		(property "Description" ""
+			(at 59.69 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 59.69 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
 			(at 59.69 181.61 0)
 			(effects
 				(font
@@ -7216,7 +7337,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4082424f-a492-45c9-af57-a8aa39a08e54")
 		(property "Reference" "C101"
 			(at 43.18 63.4999 0)
@@ -7227,7 +7347,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 43.18 66.0399 0)
 			(effects
 				(font
@@ -7256,6 +7376,23 @@
 		)
 		(property "Description" ""
 			(at 39.37 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 39.37 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
+			(at 46.228 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7395,6 +7532,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "497-1242-1-ND"
+			(at 58.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01156f7e-fcea-4d26-984c-9d74319e3463")
 		)
@@ -7432,7 +7578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 57.15 182.8799 0)
 			(effects
 				(font
@@ -7460,6 +7606,23 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 66.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
 			(at 66.04 181.61 0)
 			(effects
 				(font
@@ -7593,6 +7756,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 59.69 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK_PN" "WM16881-ND"
 			(at 59.69 35.56 0)
 			(effects
 				(font
@@ -7825,6 +7997,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "0022232021"
+			(at 105.41 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "264436a5-48eb-4b08-8e81-6429626805d9")
 		)
@@ -7993,7 +8174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 43.18 182.8799 0)
 			(effects
 				(font
@@ -8029,6 +8210,23 @@
 				)
 			)
 		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 46.99 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
+			(at 46.99 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd1dbb44-637b-4330-a524-a4ae27376eaf")
 		)
@@ -8052,7 +8250,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "694ce459-81b8-4020-a2ab-0517fa4bddd2")
 		(property "Reference" "H101"
@@ -8093,6 +8291,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 168.91 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" ""
 			(at 168.91 177.8 0)
 			(effects
 				(font
@@ -8294,6 +8500,15 @@
 				(hide yes)
 			)
 		)
+		(property "DK_PN" "WM4116-ND"
+			(at 260.35 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e18b15c7-6302-4929-8ade-dd60ff7243a4")
 		)
@@ -8380,6 +8595,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac170079-d4bd-4308-90b8-1e36e0567f58")
 		)
@@ -8446,6 +8670,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 105.41 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" ""
 			(at 105.41 90.17 0)
 			(effects
 				(font
@@ -8521,6 +8753,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "0022232021"
+			(at 105.41 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8822,7 +9063,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 49.53 182.8799 0)
 			(effects
 				(font
@@ -8857,6 +9098,23 @@
 				)
 			)
 		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 53.34 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
+			(at 53.34 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb7e0850-ed14-4b50-8cb4-efa1fc0b9f96")
 		)
@@ -8880,7 +9138,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a189009c-fcdc-49a4-8cb1-52ad51ffe12f")
 		(property "Reference" "H102"
@@ -8921,6 +9179,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 168.91 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" ""
 			(at 168.91 182.88 0)
 			(effects
 				(font
@@ -9059,6 +9325,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e5c152e-f9ac-4538-84c9-9e792d1901b8")
 		)
@@ -9150,7 +9425,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d427a355-880f-4993-a1d4-130bfdb571ed")
 		(property "Reference" "H104"
@@ -9198,6 +9473,14 @@
 				)
 			)
 		)
+		(property "DK_PN" ""
+			(at 168.91 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project ""
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -9217,7 +9500,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d5188810-1df6-4c25-bc59-ff6ccc7848d3")
 		(property "Reference" "#PWR0123"
 			(at 247.65 77.47 0)
@@ -9229,7 +9511,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 255.27 77.4699 90)
+			(at 246.634 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9533,6 +9815,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "WM4113-ND"
+			(at 261.62 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f12918e1-9ff5-4c51-af74-c71ef981cddb")
 		)
@@ -9608,6 +9899,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9750,6 +10050,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d31f7490-644e-44f7-be3b-28c7b0ebcada")
 		)
@@ -9787,7 +10096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10uF"
 			(at 74.93 182.8799 0)
 			(effects
 				(font
@@ -9815,6 +10124,23 @@
 			)
 		)
 		(property "Description" ""
+			(at 78.74 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DK_PN" "490-GRM21BZ71E106KE15LCT-ND"
+			(at 78.74 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
 			(at 78.74 181.61 0)
 			(effects
 				(font
@@ -9959,6 +10285,15 @@
 				)
 			)
 		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6298e0e6-b537-4d67-b1f1-4d87406a327e")
 		)
@@ -10031,6 +10366,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "DK_PN" "281695-3"
+			(at 30.48 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

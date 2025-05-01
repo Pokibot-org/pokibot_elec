@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -47,8 +47,8 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_07ffffff_88000065",
-    "zone_display_mode": 1
+    "visible_layers": "00000000_00000000_07ffffff_88000075",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
@@ -70,8 +70,6 @@
       false,
       false,
       false,
-      false,
-      false,
       false
     ],
     "col_order": [
@@ -84,23 +82,19 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      31
+      162,
+      147,
+      102,
+      99,
+      101,
+      132,
+      98,
+      103,
+      91,
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
